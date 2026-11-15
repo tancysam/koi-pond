@@ -1,0 +1,5 @@
+{
+  "name": "local-mods",
+  "owner": { "name": "local" },
+  "plugins": [{ "name": "koi-pond", "source": "./koi-pond", "description": "A calm pixel-art koi pond behind the conversation." }]
+}
